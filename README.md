@@ -4,22 +4,7 @@ Hi, I'm Youssef Mohammed Elkhyoty
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?
-font=Time+New+Roman
-&color=%23C8BE25
-&size=25
-&center=true
-&vCenter=true
-&width=700
-&height=100
-&lines=Backend+Developer;
-Node.js+Developer;
-Computer+Science+Senior+Student;
-RESTful+API+Development;
-Cloud+Computing+Knowledge;
-Always+learning+new+things">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DEF715&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -75,12 +60,6 @@ alt="profile views" height="25"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps Knowledge
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=plastic"/>
-</p>
-
 ### 🧰 Tools & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
@@ -89,35 +68,3 @@ alt="profile views" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/
-?user=yossefelkhyoty
-&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?
-username=yossefelkhyoty
-&show_icons=true
-&count_private=true
-&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?
-username=yossefelkhyoty
-&layout=compact
-&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/yossefelkhyoty/yossefelkhyoty/blob/output/github-contribution-grid-snake.svg">
-</p>
