@@ -9,14 +9,6 @@ Hi, I'm Youssef Mohammed Elkhyoty
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?
-username=yossefelkhyoty
-&label=Profile%20views
-&color=0047AB
-&style=plastic" 
-alt="profile views" height="25"/>
-</p>
 
 ---
 
